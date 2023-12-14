@@ -1,5 +1,5 @@
 #  ReGCL: Rethinking Message Passing in Graph Contrastive Learning
-Code for ReGCL model.
+Code for AAAI 2024 paper "ReGCL: Rethinking Message Passing in Graph Contrastive Learning".
 
 ## Dependencies
 
